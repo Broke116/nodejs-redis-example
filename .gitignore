@@ -1,0 +1,8 @@
+## Ignore files are listed
+
+node_modules/
+npm-debug.log
+typings/
+jsconfig.json
+typings.json
+
